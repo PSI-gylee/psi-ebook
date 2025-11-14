@@ -2,9 +2,9 @@
 'use strict';
 
 // 토스트 모듈 기본 주소
-// Toast.config.moduleBaseUrl = './'
+ Toast.config.moduleBaseUrl = './'
 // 토스트 데이타 기본 주소
-// Toast.config.dataBaseUrl = './'
+ Toast.config.dataBaseUrl = './'
 
 // require 환경설정
 require.config({
